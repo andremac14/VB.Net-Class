@@ -1,0 +1,12 @@
+D:\Sandovala_Lab1\bin\Debug\Sandovala_Lab1.exe.config
+D:\Sandovala_Lab1\bin\Debug\Sandovala_Lab1.exe
+D:\Sandovala_Lab1\bin\Debug\Sandovala_Lab1.pdb
+D:\Sandovala_Lab1\bin\Debug\Sandovala_Lab1.xml
+D:\Sandovala_Lab1\obj\Debug\Sandovala_Lab1.vbprojResolveAssemblyReference.cache
+D:\Sandovala_Lab1\obj\Debug\Sandovala_Lab1.Resources.resources
+D:\Sandovala_Lab1\obj\Debug\Sandovala_Lab1.vbproj.GenerateResource.cache
+D:\Sandovala_Lab1\obj\Debug\Sandovala_Lab1.vbproj.CoreCompileInputs.cache
+D:\Sandovala_Lab1\obj\Debug\Sandovala_Lab1.exe
+D:\Sandovala_Lab1\obj\Debug\Sandovala_Lab1.xml
+D:\Sandovala_Lab1\obj\Debug\Sandovala_Lab1.pdb
+D:\Sandovala_Lab1\obj\Debug\Sandovala_Lab1.Sandovala_Lab1.resources

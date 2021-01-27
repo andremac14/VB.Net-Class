@@ -1,0 +1,13 @@
+D:\VB.Net\Sandovala_Member List\Sandovala_Member List\bin\Debug\karate.mdb
+D:\VB.Net\Sandovala_Member List\Sandovala_Member List\bin\Debug\Sandovala_Member List.exe.config
+D:\VB.Net\Sandovala_Member List\Sandovala_Member List\bin\Debug\Sandovala_Member List.exe
+D:\VB.Net\Sandovala_Member List\Sandovala_Member List\bin\Debug\Sandovala_Member List.pdb
+D:\VB.Net\Sandovala_Member List\Sandovala_Member List\bin\Debug\Sandovala_Member List.xml
+D:\VB.Net\Sandovala_Member List\Sandovala_Member List\obj\Debug\Sandovala_Member List.vbprojResolveAssemblyReference.cache
+D:\VB.Net\Sandovala_Member List\Sandovala_Member List\obj\Debug\Sandovala_Member_List.Form1.resources
+D:\VB.Net\Sandovala_Member List\Sandovala_Member List\obj\Debug\Sandovala_Member_List.Resources.resources
+D:\VB.Net\Sandovala_Member List\Sandovala_Member List\obj\Debug\Sandovala_Member List.vbproj.GenerateResource.cache
+D:\VB.Net\Sandovala_Member List\Sandovala_Member List\obj\Debug\Sandovala_Member List.vbproj.CoreCompileInputs.cache
+D:\VB.Net\Sandovala_Member List\Sandovala_Member List\obj\Debug\Sandovala_Member List.exe
+D:\VB.Net\Sandovala_Member List\Sandovala_Member List\obj\Debug\Sandovala_Member List.xml
+D:\VB.Net\Sandovala_Member List\Sandovala_Member List\obj\Debug\Sandovala_Member List.pdb

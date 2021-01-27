@@ -1,0 +1,16 @@
+D:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\bin\Debug\Sandovala_Lab3.exe.config
+D:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\bin\Debug\Sandovala_Lab3.exe
+D:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\bin\Debug\Sandovala_Lab3.pdb
+D:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\bin\Debug\Sandovala_Lab3.xml
+D:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\obj\Debug\Sandovala_Lab3.vbprojResolveAssemblyReference.cache
+D:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\obj\Debug\Sandovala_Lab3.Form1.resources
+D:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\obj\Debug\Sandovala_Lab3.Resources.resources
+D:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\obj\Debug\Sandovala_Lab3.vbproj.GenerateResource.cache
+D:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\obj\Debug\Sandovala_Lab3.vbproj.CoreCompileInputs.cache
+D:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\obj\Debug\Sandovala_Lab3.exe
+D:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\obj\Debug\Sandovala_Lab3.xml
+D:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\obj\Debug\Sandovala_Lab3.pdb
+F:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\bin\Debug\Sandovala_Lab3.exe.config
+F:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\obj\Debug\Sandovala_Lab3.exe
+F:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\obj\Debug\Sandovala_Lab3.xml
+F:\VB.Net\Sandovala_Lab3\Sandovala_Lab3\obj\Debug\Sandovala_Lab3.pdb

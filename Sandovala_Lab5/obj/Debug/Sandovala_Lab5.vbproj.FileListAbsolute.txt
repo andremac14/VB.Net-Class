@@ -1,0 +1,12 @@
+F:\VB.Net\Sandovala_Lab5\bin\Debug\Sandovala_Lab5.exe.config
+F:\VB.Net\Sandovala_Lab5\bin\Debug\Sandovala_Lab5.exe
+F:\VB.Net\Sandovala_Lab5\bin\Debug\Sandovala_Lab5.pdb
+F:\VB.Net\Sandovala_Lab5\bin\Debug\Sandovala_Lab5.xml
+F:\VB.Net\Sandovala_Lab5\obj\Debug\Sandovala_Lab5.Sandovala_SemesterAverages.resources
+F:\VB.Net\Sandovala_Lab5\obj\Debug\Sandovala_Lab5.Resources.resources
+F:\VB.Net\Sandovala_Lab5\obj\Debug\Sandovala_Lab5.vbproj.GenerateResource.Cache
+F:\VB.Net\Sandovala_Lab5\obj\Debug\Sandovala_Lab5.vbproj.CoreCompileInputs.cache
+F:\VB.Net\Sandovala_Lab5\obj\Debug\Sandovala_Lab5.exe
+F:\VB.Net\Sandovala_Lab5\obj\Debug\Sandovala_Lab5.xml
+F:\VB.Net\Sandovala_Lab5\obj\Debug\Sandovala_Lab5.pdb
+F:\VB.Net\Sandovala_Lab5\obj\Debug\Sandovala_Lab5.vbprojResolveAssemblyReference.cache

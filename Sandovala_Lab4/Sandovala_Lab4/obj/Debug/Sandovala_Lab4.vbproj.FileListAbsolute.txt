@@ -1,0 +1,12 @@
+D:\VB.Net\Sandovala_Lab4\Sandovala_Lab4\bin\Debug\Sandovala_Lab4.exe.config
+D:\VB.Net\Sandovala_Lab4\Sandovala_Lab4\bin\Debug\Sandovala_Lab4.exe
+D:\VB.Net\Sandovala_Lab4\Sandovala_Lab4\bin\Debug\Sandovala_Lab4.pdb
+D:\VB.Net\Sandovala_Lab4\Sandovala_Lab4\bin\Debug\Sandovala_Lab4.xml
+D:\VB.Net\Sandovala_Lab4\Sandovala_Lab4\obj\Debug\Sandovala_Lab4.vbprojResolveAssemblyReference.cache
+D:\VB.Net\Sandovala_Lab4\Sandovala_Lab4\obj\Debug\Sandovala_Lab4.Form1.resources
+D:\VB.Net\Sandovala_Lab4\Sandovala_Lab4\obj\Debug\Sandovala_Lab4.Resources.resources
+D:\VB.Net\Sandovala_Lab4\Sandovala_Lab4\obj\Debug\Sandovala_Lab4.vbproj.GenerateResource.cache
+D:\VB.Net\Sandovala_Lab4\Sandovala_Lab4\obj\Debug\Sandovala_Lab4.vbproj.CoreCompileInputs.cache
+D:\VB.Net\Sandovala_Lab4\Sandovala_Lab4\obj\Debug\Sandovala_Lab4.exe
+D:\VB.Net\Sandovala_Lab4\Sandovala_Lab4\obj\Debug\Sandovala_Lab4.xml
+D:\VB.Net\Sandovala_Lab4\Sandovala_Lab4\obj\Debug\Sandovala_Lab4.pdb
